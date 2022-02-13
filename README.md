@@ -1,7 +1,7 @@
 # Scholl's 3D Viewport
 Demo  showcasing the following assets/systems:
 
-##Itch.IO
+## Itch.IO
 In case you want to see some pictures and in-game art visit the game page on Itch.IO: https://josephblt.itch.io/scholls-3d-viewport
 
 ## Axis Orientation
