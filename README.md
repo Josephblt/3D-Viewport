@@ -2,7 +2,7 @@
 Demo  showcasing the following assets/systems:
 
 ## Itch.IO
-In case you want to see some pictures and in-game art visit the game page on Itch.IO: https://josephblt.itch.io/scholls-3d-viewport
+In case you want to demo in action visit the page on Itch.IO: https://josephblt.itch.io/scholls-3d-viewport
 
 ## Axis Orientation
 Arrows that keep track of scene orientation.  This way you know which direction is Right, Up and Forward.
